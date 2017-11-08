@@ -1,0 +1,50 @@
+.barra{
+  position: relative;
+  background-color: #FF5C45;
+  height: 4px;
+  width: 100%
+}
+
+img{
+  width: 100px;
+  height: 100px;
+  margin-top: 1%;
+}
+
+body{
+  background-color: #EDEDED;
+}
+
+.login{
+	background-color: white;
+  border-radius: 5px;
+  box-shadow: 3px 3px 10px 0px rgba(20, 20, 20, 20);
+  border-style: solid;
+  /*box-shadow: 10px 10px 30px 30px #002957, 10px 10px 30px 30px #00FFFF, 10px 10px 30px 30px #00FFFF;*/
+  border-width: 3px;
+  /*border-color: #00557A;*/
+  margin-top: 3%;
+  width: 30%;
+  padding-bottom: 20px;
+  padding-top: 15px;
+}
+
+label {
+  color: black;
+}
+
+button{
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #FF5C45;
+  margin-bottom: 0px;
+  width: 200px;
+}
+
+.sincuenta{
+  margin-top: 5%;
+}
+
+#reg{
+  color: #FF5C45;
+}

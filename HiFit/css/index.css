@@ -1,0 +1,40 @@
+img{
+  width: 100px;
+  height: 100px;
+}
+
+header{
+  background-color: #EDEDED;
+  font-family: "Georgia";
+  font-size: 18px;
+}
+
+body{
+  /*background-color: #EDEDED;*/
+  background-color: white;
+}
+
+.index{
+	background-color: white;
+  margin-top: 2%;
+  width: 30%;
+  margin-left: 680px;
+  padding-top: 15px;
+
+}
+
+label {
+  color: black;
+}
+
+button{
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #FF5C45;
+  margin-bottom: 0px;
+}
+
+#reg{
+  color: #FF5C45;
+  margin-left: 930px;
+}
